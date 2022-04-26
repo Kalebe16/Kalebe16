@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <!--
-**Kalebe16/Kalebe16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá, me chamo Kalebe! 
+### Bem vindo ao meu perfil GitHub 👋
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalebe16&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kalebe16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+![Snake animation](https://github.com/Kalebe16/Kalebe16blob/output/github-contribution-grid-snake.svg)
