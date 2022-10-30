@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=120&section=header"></img>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header"></img>
 
 
 <div>
@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 </div>
 
 ![Snake animation](https://github.com/Kalebe16/Kalebe16/blob/output/github-contribution-grid-snake.svg)
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"></img>
