@@ -1,5 +1,7 @@
-## Olá, me chamo Kalebe! 
-### Bem vindo ao meu perfil GitHub 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header"></img>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFE4B5&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+é+Kalebe+Almeida;Tenho+20+anos;Pythonista;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+
 <!--
 
 
@@ -15,7 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header"></img>
 
 
 <div>
@@ -25,5 +26,11 @@ Here are some ideas to get you started:
 </div>
 
 ![Snake animation](https://github.com/Kalebe16/Kalebe16/blob/output/github-contribution-grid-snake.svg)
+  
+<div align="center">
+<br><p align="center"><b>Contador de visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Kalebe16}/count.svg" /></p> 
+<br>
+</div>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"></img>
