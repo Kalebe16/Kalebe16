@@ -28,6 +28,27 @@ Here are some ideas to get you started:
 ![Snake animation](https://github.com/Kalebe16/Kalebe16/blob/output/github-contribution-grid-snake.svg)
   
 <div align="center">
+  <a href="https://www.instagram.com/eukaalebe/">
+  <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  </img>
+  </a>
+
+ <a href="https://api.whatsapp.com/send?phone=5547988439776">
+ <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+ </img>
+ </a>
+  
+ <a href="https://www.linkedin.com/in/kalebe-chimanski-de-almeida/">
+ <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+ </img>
+ </a>
+  
+</div>
+  
+
+  
+  
+<div align="center">
 <br><p align="center"><b>Contador de visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Kalebe16}/count.svg" /></p> 
 <br>
