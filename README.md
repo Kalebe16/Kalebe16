@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   
   
 <div align="center">
-<br><p align="center"><b>Contador de visitantes</b></p>  
+<br><p align="center"><b>Contador de visitas</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Kalebe16}/count.svg" /></p> 
 <br>
 </div>
