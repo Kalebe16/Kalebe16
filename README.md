@@ -36,11 +36,6 @@ Here are some ideas to get you started:
   </img>
   </a>
 
- <a href="https://api.whatsapp.com/send?phone=5547988439776">
- <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
- </img>
- </a>
-  
  <a href="https://www.linkedin.com/in/kalebe-chimanski-de-almeida/">
  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
  </img>
@@ -48,13 +43,6 @@ Here are some ideas to get you started:
   
 </div>
   
-
   
-  
-<div align="center">
-<br><p align="center"><b>Contador de visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Kalebe16}/count.svg" /></p> 
-<br>
-</div>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFAFA&height=120&section=footer"></img>
